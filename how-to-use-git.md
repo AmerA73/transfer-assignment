@@ -6,3 +6,5 @@
 5. Move around (history and branches!) with git checkout <commit/branch>: This allows you to navigate through commits or switch between branches in your repository.
 6. Create new branches with git branch <branch-name>: This creates a new branch at the current commit.
 7. To collaborate, first git fetch others' changes, then git merge theirs into yours: Use git fetch to retrieve changes from the remote repository, and then use git merge to integrate those changes into your local branch. Alternatively, you can use git pull to fetch and merge changes in one step.
+
+![Screenshot (20)](https://github.com/AmerA73/transfer-assignment/assets/152501051/54388e74-6f79-4434-aad8-20f82fe02e89)
