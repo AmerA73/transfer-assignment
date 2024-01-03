@@ -5,4 +5,3 @@ Git is a distributed version control system (DVCS), which means that every devel
 
 2. Branching and Merging:
 Git's branching and merging capabilities are powerful and flexible. Creating branches in Git is lightweight and allows developers to work on new features, bug fixes, or experiments without affecting the main codebase. Branches can be merged back into the main branch (e.g., master or main) using various merge strategies, such as merge commits or rebasing, enabling smooth integration of changes while maintaining a clean and organized history. This flexibility in branching and merging encourages collaboration and experimentation within a project.
-
